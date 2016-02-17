@@ -1,9 +1,4 @@
 package com.aurionpro.product.licensing;
-
-import java.util.Calendar;
-import java.util.Date;
-
-
 public class MainClass {
 
 	public static void main(String[] args) throws Exception {

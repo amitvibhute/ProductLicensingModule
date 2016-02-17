@@ -9,8 +9,6 @@ import java.util.Properties;
 
 public class FileHandlingUtil {
 
-	private static String CUST_CERT = "CUSTOMER_CERTIFICATE";
-	private static String CA_CERT = "CA_CERTIFICATE";
 	private static final String pathToLicenseProperties = "resources\\lic.properties";
 	private static Properties props = new Properties();
 	
